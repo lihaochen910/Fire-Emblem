@@ -32,3 +32,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/Assets/NGUI
+/Assets/Plugins/iTweenPath
+/Assets/Resources/*.DS_Store
+/Assets/NGUI.meta
+/Assets/Plugins/.DS_Store
+/Assets/Plugins/._.DS_Store
+/Assets/Resources/Atlas
+/Assets/Resources/Atlas.meta
