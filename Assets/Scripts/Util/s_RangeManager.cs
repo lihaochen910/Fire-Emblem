@@ -19,8 +19,8 @@ public class s_RangeManager : MonoBehaviour {
         _ins = this;
         pool = new Pool<GameObject>();
         prefab_s_Range = Resources.Load<GameObject>("prefabs/s_Range");
-        s_unPassable = Resources.Load<Sprite>("Img/unPassable");
-        s_Passable = Resources.Load<Sprite>("Img/Passable_2");
+        s_unPassable = Resources.Load<Sprite>("Images/unPassable");
+        s_Passable = Resources.Load<Sprite>("Images/Passable_2");
         RangeParent = new GameObject("Object Pool");
     }
     void Start()
