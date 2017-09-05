@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="16" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="base_out_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="OpenGameArt/base_out_atlas.png" trans="000000" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="terrain_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="OpenGameArt/terrain_atlas.png" trans="000000" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Ground" width="30" height="16">
+  <data encoding="base64" compression="zlib">
+   eJwLY2FgCKczjgDiMiAupzOuoMDedFYGhgwgzmSlr73tQPs6gLhz1N5Re0ftHbV3kNu7HGjfCiBeSWd7KcEge6cB8XQ64xlADAAALOkp
+  </data>
+ </layer>
+ <layer name="Object" width="30" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt07sOAUEUgOHT7I6gQYJnQIO3EA3eAq+DrfASLhU6vcSlwjNIXCr8slPIdrvJjMZJvmKa+ecUIxJ+eo5IHwN4uDoRLokwEzpTzDDHxlJ3S2eHPQ64GOwOlcgIY+Wfb7TueBjedUFviZXuZl2RHPKu2e6R3glnZbYTnCe916cZ888p9kwjY3jf4JTpVVBFHAktafgdDe5vooUCilrJ4v6/6ta+unWL3Tatjta10F1b/lP/CT9vVOUfQQ==
+  </data>
+ </layer>
+</map>
